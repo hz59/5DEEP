@@ -1,0 +1,7 @@
+pip install numpy
+pip install sklearn
+pip install seaborn
+pip install matplotlib
+pip install opencv-python-headless
+pip install tensorflow
+pip install tqdm
