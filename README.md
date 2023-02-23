@@ -1,4 +1,4 @@
-# SUPINFO - Campus Lille - ZH & LS
+# Deep Learning neuronal model - hz59
 Mini-Project Repository.
 
 * Avant de commencer à lancer le Notebook veuillez éxécuter les commandes présentent dans le fichier 'requierements.txt' afin de vérifier que toutes les librairies python nécessaires sont installer correctement.
